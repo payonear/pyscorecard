@@ -5,7 +5,7 @@ The sequence of steps:
 2. fine_classing
 3. sample_split
 4. smbinning
-5.coarse_classing
+5. coarse_classing
 6. regression_building
 
 Data Set used:
