@@ -1,2 +1,2 @@
 # pyscorecard
-Scorecard creation using UCI_Credit Dataset in Python
+Scorecard creation using UCI_Credit Dataset with Python and R
